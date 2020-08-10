@@ -3,6 +3,8 @@
 
 # 序言
 推荐程序员、极客、vscode用户使用Foam。Foam的[官方文档](https://foambubble.github.io/foam/)读完比较耗时，所以做了一个快速入门的指南，方便用户尝鲜。
+  - [更多的使用技巧Recipes](https://foambubble.github.io/foam/recipes)
+  - [中文文档-网友翻译](https://github.com/xiaoland/Foam-Chinese-Document)
 # 目录
 - [安装](#安装)
   - [安装Vscode](#安装vscode)
@@ -28,13 +30,7 @@
 - 2、将你的git存储库克隆到本地，然后用vscode打开
   - 在vscode中，选择「File>Open...」来打开你的存储库
 - 3、当出现提示安装推荐的插件时，选择[Install All]安装全部，或者点击[Show Recommendations]来选择安装插件
-
-## 更多
-- 设置完毕以后，你可以通过在.vscode下的setting.json改变Foam的设置
-- 要了解更多有关使用Foam的信息，请阅读
-  - [使用技巧Recipes](https://foambubble.github.io/foam/recipes)
-  - [foam的官方文档](https://foambubble.github.io/foam/)
-  - [foam的中文文档-网友翻译](https://github.com/xiaoland/Foam-Chinese-Document)
+- 4、设置完毕以后，你可以通过在.vscode下的setting.json改变Foam的设置
 
 # 快捷键
 注意：
