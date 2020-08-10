@@ -1,13 +1,5 @@
 
-- [序言](#序言)
-- [安装](#安装)
-  - [安装Vscode](#安装vscode)
-  - [安装Foam（Foam是vscode的插件）](#安装foamfoam是vscode的插件)
-  - [更多](#更多)
-- [快捷键](#快捷键)
-- [插件教程](#插件教程)
-- [常见问题](#常见问题)
-  - [修改字体为微软雅黑](#修改字体为微软雅黑)
+
 
 # 序言
 推荐程序员、极客、vscode用户使用Foam。Foam的[官方文档](https://foambubble.github.io/foam/)读完比较耗时，所以做了一个快速入门的指南，方便用户尝鲜。
@@ -23,6 +15,15 @@
   * 不支持插入截图
   * 我也是obsidian用户，目前数据迁移会有点问题
 
+- [序言](#序言)
+- [安装](#安装)
+  - [安装Vscode](#安装vscode)
+  - [安装Foam（Foam是vscode的插件）](#安装foamfoam是vscode的插件)
+  - [更多](#更多)
+- [快捷键](#快捷键)
+- [插件教程](#插件教程)
+- [常见问题](#常见问题)
+  - [修改字体为微软雅黑](#修改字体为微软雅黑)
 
 # 安装
 下面的内容参考[Foam中文文档](https://github.com/xiaoland/Foam-Chinese-Document/blob/master/foam/gettting_started.md)
