@@ -3,19 +3,7 @@
 
 # 序言
 推荐程序员、极客、vscode用户使用Foam。Foam的[官方文档](https://foambubble.github.io/foam/)读完比较耗时，所以做了一个快速入门的指南，方便用户尝鲜。
-
-2020-8-10
-
-目前尝试下来的感受
-* 优点
-  * vscode的插件，而且基本功能都有（双向链接、图谱、markdown）
-* 缺点
-  * 对普通用户不友好
-  * 没有块引用
-  * 不支持插入截图
-  * 我也是obsidian用户，目前数据迁移会有点问题
-
-- [序言](#序言)
+# 目录
 - [安装](#安装)
   - [安装Vscode](#安装vscode)
   - [安装Foam（Foam是vscode的插件）](#安装foamfoam是vscode的插件)
@@ -24,6 +12,7 @@
 - [插件教程](#插件教程)
 - [常见问题](#常见问题)
   - [修改字体为微软雅黑](#修改字体为微软雅黑)
+- [更新日志](#更新日志)
 
 # 安装
 下面的内容参考[Foam中文文档](https://github.com/xiaoland/Foam-Chinese-Document/blob/master/foam/gettting_started.md)
@@ -89,3 +78,17 @@ foam其实是一个插件的集合，要充分使用foam，可以看这些插件
 # 常见问题
 ## 修改字体为微软雅黑
   * `ctrl + ,`打开设置，进入`font`设置，改成`"editor.fontFamily": "Consolas, 'Courier New', monospace, '微软雅黑'",`
+  
+# 更新日志
+
+2020-8-10
+
+目前尝试下来的感受
+* 优点
+  * vscode的插件，而且基本功能都有（双向链接、图谱、markdown）
+* 缺点
+  * 对普通用户不友好
+  * 没有块引用
+  * 不支持插入截图
+  * 我也是obsidian用户，目前数据迁移会有点问题
+
